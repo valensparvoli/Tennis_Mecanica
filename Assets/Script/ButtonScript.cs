@@ -16,6 +16,7 @@ public class ButtonScript : MonoBehaviour
     public void VolverJugar()
     {
         SceneManager.LoadScene("PlayerVSIA");
+        
     }
 
     public void PlayerVSIA()

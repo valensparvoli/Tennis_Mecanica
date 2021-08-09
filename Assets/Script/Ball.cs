@@ -154,7 +154,7 @@ public class Ball : MonoBehaviour
             }
             else
             {
-                SceneManager.LoadScene("Player1WinPVP"); //En cambio si lo es, gana el jugador 1 pero carga otra pantalla
+                SceneManager.LoadScene("Player1Win"); 
             }
 
         }
